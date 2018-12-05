@@ -13,20 +13,33 @@ This code has been tested on Ubuntu 16.04 64-bit system.
 
 #### color normalization
 Python 2
+
 TensorFlow
+
 numpy
+
 
 #### mask r-cnn
 Python 3
+
 Pytorch
+
 torchvision
+
 cython
+
 numpy
+
 matplotlib
+
 opencv
+
 pyyaml
+
 packaging
+
 pycocotools
+
 
 ## Contact
 
@@ -38,4 +51,5 @@ Hwejin Jung(hwejin23@gmail.com)
 
 color normalization code is inspired by the [Color-Normalization
 ](https://github.com/FarhadZanjani/Histopathology-Stain-Color-Normalization).
+
 mask r-cnnn code is inspired by the [Detectron](https://github.com/roytseng-tw/Detectron.pytorch).
