@@ -38,6 +38,5 @@ Hwejin Jung(hwejin23@gmail.com)
 
 ## Acknowledgements
 
-color normalization code is inspired by the [Color-Normalization
-](https://github.com/FarhadZanjani/Histopathology-Stain-Color-Normalization).<br />
+color normalization code is inspired by the [Color-Normalization](https://github.com/FarhadZanjani/Histopathology-Stain-Color-Normalization).<br />
 mask r-cnnn code is inspired by the [Detectron](https://github.com/roytseng-tw/Detectron.pytorch).
